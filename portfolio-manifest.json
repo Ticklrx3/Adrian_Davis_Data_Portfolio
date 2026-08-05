@@ -1,0 +1,24 @@
+{
+  "portfolio_owner": "Adrian Davis",
+  "generated": "2026-08-05",
+  "included_public_links": {
+    "tableau_cloud": "https://us-east-1.online.tableau.com/#/site/adriandeandavis-940e4302c6/home",
+    "github_repository": "https://github.com/TicklerOfDaddies/star-citizen-tracker",
+    "streamlit_application": "https://sc-tracker-tool.streamlit.app/"
+  },
+  "sanitized_evidence_metrics": {
+    "power_apps_screens": 18,
+    "power_apps_forms": 29,
+    "power_apps_galleries": 41,
+    "power_bi_components": 1,
+    "excel_workbooks_reviewed": 3,
+    "excel_worksheets": 21,
+    "excel_embedded_charts": 63
+  },
+  "excluded_from_public_package": [
+    "Power Apps export files",
+    "Supabase backend URL",
+    "Army operational workbooks",
+    "Government data and personnel information"
+  ]
+}
