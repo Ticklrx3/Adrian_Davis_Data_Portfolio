@@ -20,5 +20,17 @@
     "Supabase backend URL",
     "Army operational workbooks",
     "Government data and personnel information"
-  ]
+  ],
+  "featured_products": {
+    "excel_workbook": "Adrian_Davis_Operational_Analytics_Portfolio_Demo.xlsx",
+    "powerapps_gallery_slides": 14
+  },
+  "actual_screenshot_galleries": {
+    "star_citizen": 4,
+    "gps_status_tracker": 4,
+    "charts_workbook": 9,
+    "convoy_mission_tracker": 5,
+    "total": 22
+  },
+  "screenshot_policy": "Original image bytes preserved; proportional display only."
 }

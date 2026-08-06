@@ -1,0 +1,11 @@
+Portfolio Screenshot Gallery
+
+The screenshot gallery demonstrates layout, reporting, validation, workflow design,
+and visualization skills without publishing internal source files.
+
+Power Apps screenshots are representative recreations based on the exported control
+structure. Excel screenshots preserve the supplied layouts and formatting. All visible
+labels, users, records, dates, and values are fictionalized.
+
+The original Excel workbooks, Power Apps export, government data, personnel data,
+and Supabase backend address are not included in this public package.

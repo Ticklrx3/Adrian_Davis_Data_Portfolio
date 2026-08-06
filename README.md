@@ -38,3 +38,36 @@ Double-click `index.html` to open the portfolio in a browser.
 The website does not include the supplied Power Apps export, Excel workbooks, Supabase
 backend URL, or government source data. The Power Apps and Excel visuals are recreated
 with fictional data, while project scale metrics are based on the supplied file structures.
+
+
+## Screenshot gallery update
+
+The Power Apps and Excel case studies now include clickable, full-size screenshot galleries.
+
+- Power Apps screenshots are recreated from the exported app's screen, form, gallery,
+  and dashboard structure with fictional values.
+- Excel screenshots preserve the supplied workbook layouts and formatting while replacing
+  operational labels and values with fictional sample data.
+- The source workbooks and Power Apps export are intentionally not included in the public site.
+
+
+## Final product showcase update
+
+- The Excel section now showcases one downloadable sanitized workbook:
+  `Adrian_Davis_Operational_Analytics_Portfolio_Demo.xlsx`.
+- The Power Apps section now includes a 14-screen click-through gallery covering
+  the title screen, main menu, logistics workflows, major reporting modules,
+  personnel actions, transitions, and leadership dashboards.
+- Power Apps images are sanitized recreations grounded in the exported solution structure.
+
+
+## Actual screenshot integration
+
+- Removed all recreated Power Apps and Excel screenshots.
+- Added four original Star Citizen tracker screenshots in a click-through gallery.
+- Added exact embedded screenshots from the GPS Status Tracker, Charts Workbook,
+  and BSB & DSSB Convoy Mission Tracker Word documents.
+- Screenshots use proportional `object-fit: contain` presentation and are not cropped,
+  stretched, filtered, recolored, or otherwise visually modified.
+- The Power Apps project remains a restricted text-based case study because no actual
+  Power Apps screenshots were supplied for public use.
