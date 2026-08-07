@@ -71,3 +71,18 @@ The Power Apps and Excel case studies now include clickable, full-size screensho
   stretched, filtered, recolored, or otherwise visually modified.
 - The Power Apps project remains a restricted text-based case study because no actual
   Power Apps screenshots were supplied for public use.
+
+
+## Measured-impact update
+
+This version adds quantified, user-supplied operational metrics, the corrected work
+timeline, a LinkedIn profile link, and an anonymized professional recommendation.
+
+Metrics labeled as estimates are based on observed workflow ranges rather than a formal
+time study. Examples:
+- GPS status tracker: 5 updates/day x 15 days = 75 update cycles. At 22-25 minutes
+  saved per update, estimated savings are about 27.5-31.25 staff-hours per rotation.
+- Charts/reporting workbook: approximately 12 hours previously versus 1-2 hours now,
+  for an estimated 10-11 hours saved per reporting period.
+- Power Apps report-entry time: approximately 15-45 minutes previously versus 8-30
+  minutes now, or roughly 7-15 minutes saved on comparable reports.
